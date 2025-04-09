@@ -1,2 +1,3 @@
-# Converts data URLs to HTML code
+# HTML-Extractor
+http://Cloodie500.github.io/HTML-Extractor
 
